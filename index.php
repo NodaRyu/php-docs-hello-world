@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure CB41";
+echo "Hello Azure";
 
 ?>
